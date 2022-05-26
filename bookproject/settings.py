@@ -32,7 +32,7 @@ INSTALLED_APPS = [
     # thirt party
     "graphene_django",
     # local
-    "core",
+    "quiz",
 ]
 
 MIDDLEWARE = [
